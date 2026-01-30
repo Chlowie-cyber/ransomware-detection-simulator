@@ -36,7 +36,7 @@ All events are logged in `alert_log.txt` for audit and analysis.
 1. Clone the repository  
 2. Create a folder called `protected_folder` inside the project folder  
 3. Place any sample files you want to monitor inside `protected_folder`  
-4. Run the program: python analyzer.py
+4. Run the program: `python analyzer.py`
 
 
 Modify or create files in the folder to test alerts. After multiple rapid changes, a high alert will trigger.
@@ -62,4 +62,5 @@ Modify or create files in the folder to test alerts. After multiple rapid change
 ## 👨‍💻 Author
 **Lehlogonolo Mpye**  
 Aspiring Cybersecurity Professional focused on defending sensitive systems and critical infrastructure.
+
 
